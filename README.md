@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryajith M S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web and game developer  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryajithms&label=Profile%20views&color=0e75b6&style=flat" alt="suryajithms" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@suryajith66" target="blank"><img src="https://img.shields.io/twitter/follow/@suryajith66?logo=twitter&style=for-the-badge" alt="@suryajith66" /></a> </p>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Web and development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Unity**
 
-- 💬 Ask me about **html5,css,javascript,bootsrap**
+- 💬 Ask me about **html5,css,javascript,bootsrap,c++,unity**
 
 - 📫 How to reach me **suryajithmelila075@gmail.com**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/@suryajith66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suryajith66" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suryajith m s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryajith m s" height="30" width="40" /></a>
-<a href="https://instagram.com/_____s__u_r_y_a_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____s__u_r_y_a_____" height="30" width="40" /></a>
+<a href="https://instagram.com/______s__u_r_y_a_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="______s__u_r_y_a_____" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
